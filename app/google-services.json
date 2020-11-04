@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "225939830997",
+    "firebase_url": "https://ellearning-15ae9.firebaseio.com",
+    "project_id": "ellearning-15ae9",
+    "storage_bucket": "ellearning-15ae9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225939830997:android:0139fcf9ac4c83a4f84a5c",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225939830997-1u7rbhg9fr37jb1d9suf8gu9uvfq30sj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecrud",
+            "certificate_hash": "7dc680bb7462d23c94794cb4706dab493d8ce2c5"
+          }
+        },
+        {
+          "client_id": "225939830997-9n3cl261tq3qnoi39vlu4ojbhao95h2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBd5NDhBz6vucaAoTlaN6YoAzhKhihXM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225939830997-9n3cl261tq3qnoi39vlu4ojbhao95h2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
